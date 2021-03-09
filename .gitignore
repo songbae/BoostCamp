@@ -18,6 +18,7 @@ ipython_config.py
 
 # some data which is  too big 
 data/
+Day_practice/
 Day_Free/.data/
 Day_Free/_pycache/
 Day_Free/data/
@@ -26,6 +27,8 @@ Day_Free/e09d2ee4493e098a6927a93febe2df99/
 Day_Free/WEEK_NLP_day20_assignment/
 Day20/
 Day_practice/Dacon/open/
+Day_practice/higernet/data/
+Day_practice/higernet/data/HigherHRNet-Human-Pose-Estimation
 
 
 ### PyCharm ###
