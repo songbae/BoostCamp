@@ -17,18 +17,11 @@ ipython_config.py
 #   git rm -r .ipynb_checkpoints/
 
 # some data which is  too big 
-data/
+Day_Free/
 Day_practice/
-Day_Free/.data/
-Day_Free/_pycache/
-Day_Free/data/
-Day_Free/deep-learning-from-scratch-2/
-Day_Free/e09d2ee4493e098a6927a93febe2df99/
-Day_Free/WEEK_NLP_day20_assignment/
-Day20/
-Day_practice/Dacon/open/
-Day_practice/higernet/data/
-Day_practice/higernet/data/HigherHRNet-Human-Pose-Estimation
+Day_ReinforceLR/
+
+
 
 
 ### PyCharm ###
