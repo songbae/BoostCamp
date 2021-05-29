@@ -1,4 +1,4 @@
-## Readme
+## 🚀NAVER AI 부스트캠프 
 --- 
 - 2021.01.18~BoostCamp
 - TIL: Today I Learned
